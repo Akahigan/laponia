@@ -4,7 +4,9 @@
 #include <locale.h>
 #define LINHAS 12
 #define COLUNAS 12
+
 //Grupo da AV3: Diego Lima Silva, Joao Enzo Novais, Luiz Guilherme Guerreiro Carvalho e Pedro Vianna Goes Ede.
+
 char tabuleiro[LINHAS][COLUNAS] = {
     {'*','*','*','*','*','*','*','*','*','*','*','*'},
     {'*',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ','*'},
